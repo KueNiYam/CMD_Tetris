@@ -1,0 +1,4 @@
+﻿  테트리스 코드.cpp
+d:\그니얌\프로그래밍\c++ 1-2학기\team project\team project - tetris by me\tetris teamproject\tetris teamproject\테트리스 코드.cpp(116): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\그니얌\프로그래밍\c++ 1-2학기\team project\team project - tetris by me\tetris teamproject\tetris teamproject\테트리스 코드.cpp(876): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tetris TeamProject.vcxproj -> D:\그니얌\프로그래밍\C++ 1-2학기\Team Project\Team Project - Tetris by me\Tetris TeamProject\Debug\Tetris TeamProject.exe
